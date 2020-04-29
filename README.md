@@ -1,8 +1,5 @@
 # easy_topo
 
-## Demo演示地址
-戳这里 [演示地址](https://laddwong.github.io/easy-topo/index.html)
-
 ## 框架·库·工具
 - Vue2.0
 - Element-UI
